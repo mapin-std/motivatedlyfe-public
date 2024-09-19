@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Motivatedlyfe</title>
+    <link>http://localhost:57019/</link>
+    <description>Recent content on Motivatedlyfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Sep 2024 15:45:04 +0800</lastBuildDate><atom:link href="http://localhost:57019/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Postingan Ketiga</title>
+      <link>http://localhost:57019/posts/postingan-ketiga/</link>
+      <pubDate>Thu, 19 Sep 2024 15:45:04 +0800</pubDate>
+      
+      <guid>http://localhost:57019/posts/postingan-ketiga/</guid>
+      <description>
+        
+          
+            &lt;h2 id=&#34;intro-kedua&#34;&gt;Intro Kedua&lt;/h2&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Postingan Kedua</title>
+      <link>http://localhost:57019/posts/postingan-kedua/</link>
+      <pubDate>Thu, 19 Sep 2024 15:44:56 +0800</pubDate>
+      
+      <guid>http://localhost:57019/posts/postingan-kedua/</guid>
+      <description>
+        
+          
+            &lt;h2 id=&#34;intro-pertama&#34;&gt;Intro Pertama&lt;/h2&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Postingan Pertama</title>
+      <link>http://localhost:57019/posts/postingan-pertama/</link>
+      <pubDate>Thu, 19 Sep 2024 15:44:25 +0800</pubDate>
+      
+      <guid>http://localhost:57019/posts/postingan-pertama/</guid>
+      <description>
+        
+          
+            &lt;h2 id=&#34;intro-ketiga&#34;&gt;Intro Ketiga&lt;/h2&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Postingan Pertama</title>
+      <link>http://localhost:57019/posts/my-first-post/</link>
+      <pubDate>Thu, 19 Sep 2024 15:38:09 +0800</pubDate>
+      
+      <guid>http://localhost:57019/posts/my-first-post/</guid>
+      <description>
+        
+          
+            &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
